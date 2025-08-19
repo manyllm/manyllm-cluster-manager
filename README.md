@@ -1,4 +1,4 @@
-# 🚀 ManyLLM Cluster Manager
+# 🚀 AI-LLM Cluster Manager
 
 > **Democratizing AI Infrastructure** - The open-source platform that transforms commodity hardware into enterprise-grade LLM clusters
 
